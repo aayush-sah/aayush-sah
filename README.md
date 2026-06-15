@@ -1,3 +1,17 @@
+## Hi there 👋, I'm Aayush
+
+### 👨‍💻 About Me
+I am a 20-year-old tech enthusiast and aspiring AI/ML Engineer currently pursuing my Integrated M.Tech at VIT Bhopal University. I am passionate about blending deep learning, UI/UX design, and hardware integration to build impactful, user-centric solutions. Whether I am crafting interfaces in Figma, training neural networks, or organizing campus tech events, I thrive on turning complex problems into accessible technology. I am also currently working on launching my personal brand, *LUB - Lit Up Bright*.
+
+---
+
+- 🔭 **I’m currently working on** scalable AI solutions, growing my personal brand *LUB*, and developing predictive models for systems like the SAFESPACE Tourist Safety Ecosystem.
+- 🌱 **I’m currently learning** advanced Deep Learning techniques (CNNs, NLP), Generative AI application development, and exploring new UI/UX design paradigms.
+- 👯 **I’m looking to collaborate on** Machine Learning research, open-source AI applications, full-stack web platforms, and fast-paced hackathons. 
+- 🤔 **I’m looking for help with** optimizing large-scale AI models and expanding my footprint in the open-source tech community.
+- 💬 **Ask me about** Artificial Intelligence, Convolutional Neural Networks, UI/UX Design, and building sustainable IoT systems.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love shipping rapid prototypes—I've built over 15 projects under strict 48-hour hackathon deadlines! When I'm not coding, you can find me playing the guitar, swimming, or diving into narrative-driven video games like *The Last of Us*.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aayush10_08?igsh=MWEyd2RybnlrbXdhZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aayushsah) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29858589/aayush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsah0805@gmail.com) 
