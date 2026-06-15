@@ -13,11 +13,3 @@ I am a 20-year-old tech enthusiast and aspiring AI/ML Engineer currently pursuin
 ![](https://github-readme-stats.shion.dev/api?username=aayush-sah&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=aayush-sah&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayush-sah&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayush-sah&theme=react&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aayush-sah&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
