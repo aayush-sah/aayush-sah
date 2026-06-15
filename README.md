@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Aayush
 
-### 👨‍💻 About Me
+# 💫 About Me
 I am a 20-year-old tech enthusiast and aspiring AI/ML Engineer currently pursuing my Integrated M.Tech at VIT Bhopal University. I am passionate about blending deep learning, UI/UX design, and hardware integration to build impactful, user-centric solutions. Whether I am crafting interfaces in Figma, training neural networks, or organizing campus tech events, I thrive on turning complex problems into accessible technology. I am also currently working on launching my personal brand, *LUB - Lit Up Bright*.
 
 ## 🌐 Socials:
